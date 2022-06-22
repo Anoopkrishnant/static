@@ -1,0 +1,227 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    background-color: #fff;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+}
+.read{
+    color: black;
+}
+   
+.first{
+    background-image:url("Images/M3-Homepage-Desktop-LHD.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height: 100vh;
+    
+
+}
+.logo{
+    width: 120px;
+    height: 11px;
+    position: fixed;
+    top: 80px;
+    left:45px;
+
+    
+}
+.main-text{
+        color:black;
+        text-decoration: none;
+        margin: 0 0.56em;
+        padding: 0.618em;
+        word-spacing: 0px;
+        font-size:15px;
+        text-shadow:#fff;
+        display: flex;
+        flex-direction:row;
+        justify-content: center;
+        font-family:'Gotham Light';
+        position: fixed;
+        margin-left: 320px;
+        padding-top: 50px;
+        font-weight:700;
+}
+    
+.Header-item{
+   
+    color:black;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+    text-indent: 2em;
+    padding-top: 25px;
+    
+ }
+ .right-text{
+    color:black;
+    text-decoration: none;
+    margin: 0 0.56em;
+    padding: 0.618em;
+    word-spacing: 0px;
+    font-size:15px;
+    text-shadow:#fff;
+    font-weight:700;
+    display: flex;
+    flex-direction:row;
+    justify-content:flex-end;
+    margin-right: -325px;
+    margin-left: 200px;
+    font-family:'Gotham Light';
+ }
+.Header-right{
+    color:black;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+    text-indent: 2em;
+    padding-top: 19px;
+    
+ }
+.center-text{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 25px;
+    font-weight:700;
+    font-family:'Gotham';
+    padding-top: 180px;
+}
+.order{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.btn{
+    height: 40px;
+    width: 240px;
+    border-radius: 30px;
+    border-color:rgb(43, 42, 42);
+    background:rgb(43, 42, 42);
+    color: #fff;
+    font-weight: normal;
+    margin-left: 480px;
+    margin-bottom: 80px;
+    
+}
+.btn1{
+    height: 40px;
+    width: 240px;
+    border-radius: 30px;
+    border-color:whitesmoke;
+    background:whitesmoke;
+    color:black;
+    font-weight: lighter;
+    margin-left: 0px;
+    margin-top: 430px;
+}
+.second{
+    background-image:url("Images/Desktop-ModelY1.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height: 100vh;
+    
+
+}
+.third{
+    background-image:url("Images/Homepage-Model-S-Desktop-LHD.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height: 100vh;
+
+}
+.fourth{
+    background-image:url("Images/Homepage-Model-X-Desktop-LHD.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height: 100vh;
+
+}
+.fifth{
+    background-image:url("Images/_25-HP-SolarPanels-D.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height: 100vh;
+
+}
+.center-text1{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 25px;
+    font-weight:lighter;
+    font-family:'Gotham Light';
+    padding-top: 180px;
+}
+.sixth{
+    background-image:url("Images/HP-SR-Design-D.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height: 100vh;
+
+}
+.last{
+    background-image:url("Images/dd739764-bcaa-4263-9488-8c73bc9fb046.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height: 100vh;
+
+}
+.final-text{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 21px;
+    font-weight:normal;
+    font-family:'Gotham Light';
+    padding-top: 130px;
+}
+.btn-shop{
+    height: 40px;
+    width: 240px;
+    border-radius: 30px;
+    border-color:rgb(43, 42, 42);
+    background:rgb(43, 42, 42);
+    color: #fff;
+    font-weight: normal;
+    margin-left: 620px;
+    margin-top: 480px;
+    padding-bottom: 0px;
+    
+}
+.end-footer{
+    color:darkslategrey;
+    text-decoration: none;
+    vertical-align: middle;
+    text-indent: 1em;
+    font-size: 12px;
+    font-family: 'Gotham Light';
+    font-weight:700;
+
+
+}
+.footer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    
+}
+
+
+
+
