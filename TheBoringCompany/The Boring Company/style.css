@@ -1,0 +1,338 @@
+.logo{
+    width: 100px;
+    height: 60px;
+    position: absolute;
+    top: 10px;
+    left:50px;
+}
+.right{
+    color: #fff;
+    text-decoration: none;
+    margin: 0 0.56em;
+    padding: 0.618em 0;
+    position: absolute;
+    top: 20px;
+    left: 1200px;
+    word-spacing: 10px;
+    font-size: small;
+    text-shadow:black;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.Header-left{
+    color: #fff;
+   text-decoration: none;
+   display: inline-block;
+   vertical-align: middle;
+}
+.Header-left:hover{
+    color:rgb(234, 50, 228);
+}
+
+*{
+    padding: 0px;
+    margin: 0;
+}
+.container{
+    background-image:url("Image/LVCC+Loop+Hero+2_April+2021.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height: 100vh;
+    margin: 100;
+    
+}
+.text1{
+    color: #fff;
+    text-decoration: none;
+    margin: 0 0.56em;
+    padding: 0.618em 0;
+    position: absolute;
+    top: 20px;
+    left: 165px;
+    word-spacing: 10px;
+    font-size: small;
+    text-shadow:black;
+    font-weight: bold;
+    font-family: Arial;
+   
+}
+.Header-item:hover{
+    color:rgb(234, 50, 228);
+}
+.Header-item{
+   
+   color: #fff;
+   text-decoration: none;
+   display: inline-block;
+   vertical-align: middle;
+
+
+}
+.text2{
+    display: inline;
+   color: #fff;
+   position:absolute;
+   top: 600px;
+   left: 120px;
+   word-spacing: 10px;
+   font-family: Arial;
+
+}
+.second{
+    background-image:url("Image/Tunnel+photo+1.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height: 100vh;
+    margin: 150; 
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    
+}
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: absolute;
+
+}
+.content .para{
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 20px;
+    font-size: medium;
+    font-weight: normal;
+}
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 300px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.content .para1{
+    padding-left: 100px;
+    padding-bottom: 20px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-size:medium;
+    font-weight: normal;
+}
+.btn{
+    height: 50px;
+    width: 160px;
+    border-radius: 30px;
+    border: 2px solid;
+    background: transparent;
+    color: #fff;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 80px;
+    
+}
+
+.Third{
+    background-image:url("Image/cartunnel.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height:100vh;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.content2{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: absolute;
+}
+.content2 h1{
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 300px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.content2 .para2{
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 20px;
+    font-size:medium;
+    font-weight: normal;
+}
+.content2 .para3{
+    padding-left: 100px;
+    padding-bottom: 20px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-size:medium;
+    font-weight:normal;
+}
+.btn1{
+    height: 50px;
+    width: 160px;
+    border-radius: 30px;
+    border: 2px solid;
+    background: transparent;
+    color: #fff;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 80px;
+    
+}
+.fourth{
+    background-image:url("Image/20210108_185830.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height:100vh;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.content3{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: absolute;
+}
+.content3 h1{
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 300px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.content3 .para4{
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 20px;
+    font-size:medium;
+    font-weight: normal;
+}
+.content3 .para5{
+    padding-left: 100px;
+    padding-bottom: 20px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-size:medium;
+    font-weight:normal;
+}
+.btn2{
+    height: 50px;
+    width: 160px;
+    border-radius: 30px;
+    border: 2px solid;
+    background: transparent;
+    color: #fff;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 80px;
+    
+}
+.fifth{
+    background-image:url("https://images.squarespace-cdn.com/content/v1/6063b0835f68896079d7d643/1618426023431-JY0VJ7XCQUYY76QO9D1H/9af6c204fe596ec3bfe3cdeeb7294f56.jpg?format=2500w");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height:100vh;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    overflow:visible;
+}
+.content4{
+    width: 1200px;
+    height: auto;
+    margin: 100px;
+    color: #fff;
+    position: absolute;
+    padding-bottom: 400px;
+}
+.content4 h1{
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 300px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.content4 .para5{
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 20px;
+    font-size:medium;
+    font-weight: normal;
+}
+.btn3{
+    height: 50px;
+    width: 160px;
+    border-radius: 30px;
+    border: 2px solid;
+    background: transparent;
+    color: #fff;
+    font-weight: bold;
+    
+}
+.End{
+
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    position: absolute;
+    
+}
+.btn4{
+    height: 50px;
+    width: 160px;
+    border-radius: 30px;
+    border: 2px solid;
+    background: transparent;
+    color: #fff;
+    font-weight: bold;
+    position:absolute;
+    margin-top: 230px;
+    margin-left: 1200px;
+
+}
+.end-item{
+    color: #fff;
+   text-decoration: none;
+   display: inline-block;
+   vertical-align: middle;
+}
+.Final{
+color: #fff;
+text-decoration: none;
+margin: 0 0.56em;
+padding: 0.618em 0;
+word-spacing: 20px;
+font-size:12px;
+text-shadow:black;
+font-weight:bold;
+font-family: Arial;
+position: absolute;
+padding-top: 325px;
+padding-left: 450px;
+
+}
+
+
+
+
